@@ -8,8 +8,8 @@
 https://github.com/abdullahayub/Healthcare-Data-Analytics/assets/37545634/02cda2c8-c8a2-471f-b7d6-d324c1582a02
 
 
-## Project1: Healthcare Data Analytics - Excel
+## Project2: Healthcare Data Analytics - Excel
 
-**Project Video**
+**Project Video Excel**
 
 https://github.com/abdullahayub/Excel-Data-Analytics/assets/37545634/19e4b3dd-0714-4e2e-8487-975bb0700532
